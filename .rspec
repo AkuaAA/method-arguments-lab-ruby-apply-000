@@ -1,6 +1,6 @@
 #rspec./spec/introduction_spec.rb:4
 
-def introduction(name)
+def introduction(name)(language)
  puts "Hi, my name is #{Akua}" 
 def introduction(language)
  puts "and I am learning to programe in #{Ruby}."
