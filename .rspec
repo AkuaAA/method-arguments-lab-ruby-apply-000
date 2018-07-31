@@ -1,2 +1,5 @@
---color
---require spec_helper
+#rspec/introduction.rb
+
+def introduction_with_language
+puts "Hi, my name is#{Akua} and I am learning to programe in #{Ruby}."
+end
