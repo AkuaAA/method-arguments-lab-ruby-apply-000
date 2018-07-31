@@ -1,4 +1,4 @@
-#rspec/introduction.rb
+#rspec./spec/introduction_spec.rb
 
 def introduction_with_language
 puts "Hi, my name is#{Akua} and I am learning to programe in #{Ruby}."
